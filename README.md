@@ -1,0 +1,2 @@
+# ActiveRecord
+Active Record pattern
