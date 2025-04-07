@@ -1,2 +1,1 @@
-# ActiveRecord
-Active Record pattern
+# Active Record pattern
